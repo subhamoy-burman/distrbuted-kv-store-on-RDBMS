@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyValuePair.API", "KeyValuePair.API\KeyValuePair.API.csproj", "{E42A444E-175E-400F-9BA2-63D2121D67A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBManager.Worker", "DBManager.Worker\DBManager.Worker.csproj", "{E7F8607C-165F-452D-82E6-094FEB4E0468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E42A444E-175E-400F-9BA2-63D2121D67A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42A444E-175E-400F-9BA2-63D2121D67A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42A444E-175E-400F-9BA2-63D2121D67A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42A444E-175E-400F-9BA2-63D2121D67A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F8607C-165F-452D-82E6-094FEB4E0468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F8607C-165F-452D-82E6-094FEB4E0468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F8607C-165F-452D-82E6-094FEB4E0468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F8607C-165F-452D-82E6-094FEB4E0468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18B75346-1D0D-4A63-9C4A-EFF4F7BC5C0C}
+	EndGlobalSection
+EndGlobal
